@@ -15,3 +15,6 @@ source /path/sa_regions.sql
 show tables;
 
 select * from sa_regions limit 3;
+
+Check this repo too:
+https://github.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts
